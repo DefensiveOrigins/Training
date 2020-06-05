@@ -17,8 +17,7 @@ For course descriptions and additional information, please visit [https://defens
 | KernelCon 2020                | Atomic Purple Teaming v1                 | March 25 - March  26, 2020 | [KernelCon](https://kernelcon.org/)      |
 | Wild West Hackin Fest WW 2020 | Atomic Purple Teaming v1                 | March 10 - March 11, 2020  | [WWHF](https://wildwesthackinfest.com/)  |
 | BHIS Webcast                  | Enterprise Recon for Purple Teams        | February 13, 2020          | [BHIS Blog](https://www.blackhillsinfosec.com/webcast-enterprise-recon-for-purple-teams/)<br>[YouTube](https://www.youtube.com/watch?v=5c4KHB8dZMw)<br>[Slides](https://activecountermeasures.com/presentations) |
-| BHIS Webcast                  | Let’s Talk About ELK Baby, Let’s Talk About You and AD | January 7, 2020            | [BHIS Blog](https://www.blackhillsinfosec.com/webcast-lets-talk-about-elk-baby-lets-talk-about-you-and-ad/)<br>[YouTube](https://www.youtube.com/watch?v=c0qOmu3pChc)<br>[Slides](https://www.activecountermeasures.com/acm-bhis-presentations/) 
-          |
+| BHIS Webcast                  | Let’s Talk About ELK Baby, Let’s Talk About You and AD | January 7, 2020            | [BHIS Blog](https://www.blackhillsinfosec.com/webcast-lets-talk-about-elk-baby-lets-talk-about-you-and-ad/)<br>[YouTube](https://www.youtube.com/watch?v=c0qOmu3pChc)<br>[Slides](https://www.activecountermeasures.com/acm-bhis-presentations/) |
 
 # Education and Outreach 
 We frequently volunteer our time to talk to schools, groups and individual K-12 classes about basic security steps they can take to have a more secure online web presence. 
