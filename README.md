@@ -3,10 +3,10 @@
 # Defensive Origins Training Opportunities 
 
 ## Upcoming Training Opportunities
-| Event                                    | Date                               | Cost  | Registration     |
-|------------------------------------------|------------------------------------|-------|------------------|
-| Applied Purple Teaming: Infrastructure, Threat Optics, and Continuous Improvement (4 hrs) | Saturday June 6, 2020 11AM-4PM EDT | FREE! | [Register](https://register.gotowebinar.com/register/7632358227918317070?source=kidogh)                 |
-| Applied Purple Teaming<br>3 day course, 5.5 hrs per day.<br> | June 30th - July 2nd               | $395  | To be announced. |
+| Event                                    | Date                               | Cost                                     | Registration                             |
+|------------------------------------------|------------------------------------|------------------------------------------|------------------------------------------|
+| Applied Purple Teaming: Infrastructure, Threat Optics, and Continuous Improvement (4 hrs) | Saturday June 6, 2020 11AM-4PM EDT | FREE!<br>Sponsored by [BHIS](https://www.blackhillsinfosec.com/) | [Register](https://register.gotowebinar.com/register/7632358227918317070?source=kidogh) |
+| Applied Purple Teaming<br>3 day course, 5.5 hrs per day.<br> | June 30th - July 2nd 2020              | $395<br>Sponsored by [BHIS](https://www.blackhillsinfosec.com/) | To be announced.                         |
 
 For course descriptions and additional information, please visit [https://defensiveorigins.com/trainings/](https://defensiveorigins.com/trainings/).
 
@@ -14,9 +14,12 @@ For course descriptions and additional information, please visit [https://defens
 | Venue                         | Event                                    | Date                       | Recording/Blog                           |
 |-------------------------------|------------------------------------------|----------------------------|------------------------------------------|
 | BHIS Webcast                  | A Blue Team's Perspective on Red Team Hack Tools | May 14th, 2020             | [YouTube](https://www.youtube.com/watch?v=0mIN2OU5hQE) |
-| BHIS Webcast                  | Enterprise Recon for Purple Teams        | February 13, 2020          | [BHIS Blog](https://www.blackhillsinfosec.com/webcast-enterprise-recon-for-purple-teams/)<br>[YouTube](https://www.youtube.com/watch?v=5c4KHB8dZMw)                     |
-| KernelCon 2020                | Atomic Purple Teaming v1                    | March 25 - March  26, 2020 | [KernelCon](https://kernelcon.org/)                                |
-| Wild West Hackin Fest WW 2020 | Atomic Purple Teaming v1                    | March 10 - March 11, 2020  | [WWHF](https://wildwesthackinfest.com/)                |
+| KernelCon 2020                | Atomic Purple Teaming v1                 | March 25 - March  26, 2020 | [KernelCon](https://kernelcon.org/)      |
+| Wild West Hackin Fest WW 2020 | Atomic Purple Teaming v1                 | March 10 - March 11, 2020  | [WWHF](https://wildwesthackinfest.com/)  |
+| BHIS Webcast                  | Enterprise Recon for Purple Teams        | February 13, 2020          | [BHIS Blog](https://www.blackhillsinfosec.com/webcast-enterprise-recon-for-purple-teams/)<br>[YouTube](https://www.youtube.com/watch?v=5c4KHB8dZMw)<br>[Slides](https://activecountermeasures.com/presentations) |
+| BHIS Webcast                  | Let’s Talk About ELK Baby, Let’s Talk About You and AD | January 7, 2020            | [BHIS Blog](https://www.blackhillsinfosec.com/webcast-lets-talk-about-elk-baby-lets-talk-about-you-and-ad/)<br>[YouTube](https://www.youtube.com/watch?v=c0qOmu3pChc)<br>[Slides](https://www.activecountermeasures.com/acm-bhis-presentations/) 
+          |
+
 # Education and Outreach 
 We frequently volunteer our time to talk to schools, groups and individual K-12 classes about basic security steps they can take to have a more secure online web presence. 
 
