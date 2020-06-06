@@ -1,6 +1,7 @@
 
 ![Defensive Origins](https://defensiveorigins.com/wp-content/uploads/2020/05/defensive-origins-header-6-1536x760.png)
 # Defensive Origins Training Opportunities 
+Join the Defensive Origins Mailing List: https://defensiveorigins.com/first-to-know/
 
 ## Upcoming Training Opportunities
 | Event                                    | Date                                   | Cost                                     | Registration                             |
