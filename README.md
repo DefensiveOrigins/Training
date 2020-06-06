@@ -3,10 +3,10 @@
 # Defensive Origins Training Opportunities 
 
 ## Upcoming Training Opportunities
-| Event                                    | Date                               | Cost                                     | Registration                             |
-|------------------------------------------|------------------------------------|------------------------------------------|------------------------------------------|
-| Applied Purple Teaming: Infrastructure, Threat Optics, and Continuous Improvement (4 hrs) <P>[Course Information][1]| Saturday June 6, 2020 <br>11AM-4PM EDT | FREE!<br>Sponsored by [BHIS](https://www.blackhillsinfosec.com/) | [Register](https://register.gotowebinar.com/register/7632358227918317070?source=kidogh) |
-| Applied Purple Teaming<br>3 day course, 5.5 hrs per day.<br> | June 30th - July 2nd 2020              | $395<br>Sponsored by [BHIS](https://www.blackhillsinfosec.com/) | To be announced.                         |
+| Event                                    | Date                                   | Cost                                     | Registration                             |
+|------------------------------------------|----------------------------------------|------------------------------------------|------------------------------------------|
+| Applied Purple Teaming: Infrastructure, Threat Optics, and Continuous Improvement (4 hrs) <P>[Course Information][1] | Saturday June 6, 2020 <br>11AM-4PM EDT | FREE!<br>Sponsored by [BHIS](https://www.blackhillsinfosec.com/) | [Register](https://register.gotowebinar.com/register/7632358227918317070?source=kidogh) |
+| Applied Purple Teaming<br>3 day course, 5.5 hrs per day.<br> | June 30th - July 2nd 2020              | $395<br>Sponsored by [BHIS](https://www.blackhillsinfosec.com/) | [Register][2]                                 |
 
 For course descriptions and additional information, please visit [https://defensiveorigins.com/trainings/](https://defensiveorigins.com/trainings/).
 
@@ -37,3 +37,4 @@ Defensive Origins is a research, consulting, and educational organization founde
 https://defensiveorigins.com/trainings/
 
   [1]: https://github.com/DefensiveOrigins/APT06202001/blob/master/CourseInformation.md
+  [2]: https://wildwesthackinfest.com/online-training/applied-purple-teaming/
