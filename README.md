@@ -6,7 +6,7 @@ Join the Defensive Origins Mailing List: https://defensiveorigins.com/first-to-k
 ## Upcoming Training Opportunities
 | Event                                    | Date                                   | Cost                                     | Registration                             |
 |------------------------------------------|----------------------------------------|------------------------------------------|------------------------------------------|
-| Applied Purple Teaming: Infrastructure, Threat Optics, and Continuous Improvement (4 hrs) <P>[Course Information][1] | Saturday June 6, 2020 <br>11AM-4PM EDT | FREE!<br>Sponsored by [BHIS](https://www.blackhillsinfosec.com/) | [Register](https://register.gotowebinar.com/register/7632358227918317070?source=kidogh) |
+| Applied Purple Teaming: Infrastructure, Threat Optics, and Continuous Improvement (4 hrs) <P>[Course Information][1] | Saturday June 6, 2020 <br>11AM-4PM EDT | FREE!<br>Sponsored by [BHIS](https://www.blackhillsinfosec.com/) | Video Coming Soon |
 | Applied Purple Teaming<br>3 day course, 5.5 hrs per day.<br> | June 30th - July 2nd 2020              | $395<br>Sponsored by [BHIS](https://www.blackhillsinfosec.com/) | [Register][2]                                 |
 
 For course descriptions and additional information, please visit [https://defensiveorigins.com/trainings/](https://defensiveorigins.com/trainings/).
