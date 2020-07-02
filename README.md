@@ -4,9 +4,10 @@
 Join the Defensive Origins Mailing List: https://defensiveorigins.com/first-to-know/
 
 ## Upcoming Training Opportunities
+* Sadly Wild West Hackin Fest in Deadwood, SD this year has been made virtual-only due to the Covid pandemic.  We will still be teaching a live remote class!  
+
 | Event                                    | Date                                     | Venue                                    | Cost                                     | Registration  |
 |------------------------------------------|------------------------------------------|------------------------------------------|------------------------------------------|---------------|
-| Applied Purple Teaming (16 Hr Course)<br>3 day course, 5.5 hrs per day.<br> | ![Course  - Applied Purple Teaming](https://img.shields.io/badge/Course-16Hrs-green)<BR>June 30th - July 2nd 2020 | ![Remote](https://img.shields.io/badge/Remote-Live%20Virtual%20Interactive%20Classroom-darkgreen)<br>[![HOST](https://img.shields.io/badge/Host-BHIS-blue)](https://www.blackhillsinfosec.com/) | ![$395](https://img.shields.io/badge/Remote-$395-orange) | [Register][4] |
 | Applied Purple Teaming (16 Hr Course)<br>3 day course, 5.5 hrs per day.<br> | ![Course  - Applied Purple Teaming](https://img.shields.io/badge/Course-16Hrs-green)<br>TBA July/Aug 2020 | ![Remote](https://img.shields.io/badge/Remote-Live%20Virtual%20Interactive%20Classroom-darkgreen)<br>[![HOST](https://img.shields.io/badge/Host-BHIS-blue)](https://www.blackhillsinfosec.com/) | ![$395](https://img.shields.io/badge/Remote-$395-orange) | TBA           |
 | Applied Purple Teaming (16 Hr Course)<br>2 day course, 8 hrs per day.<br> | ![Course  - Applied Purple Teaming](https://img.shields.io/badge/Course-16Hrs-green)<br>September 22-23, 2020 | ![Remote](https://img.shields.io/badge/Remote-Live%20Hybrid%20Interactive%20Classroom-yellow)<br>![OnSite](https://img.shields.io/badge/OnSite-Deadwood%20South%20Dakota-orange)<br>[![HOST](https://img.shields.io/badge/Host-WildWestHackinFest-blue)](https://www.wildwesthackinfest.com/) | ![Virtual $495](https://img.shields.io/badge/Remote-$495-orange)<BR>![Onsite $645](https://img.shields.io/badge/OnSite-$645-orange)<br>![Includes](https://img.shields.io/badge/Includes-WWHF%20Registration-green) | [Register][5] |
 
@@ -15,6 +16,7 @@ For course descriptions and additional information, please visit [https://defens
 ## Past Events
 | Venue                                    | Event                                    | Date                       | Recording/Blog                           |
 |------------------------------------------|------------------------------------------|----------------------------|------------------------------------------|
+| ![Training-Virtual](https://img.shields.io/badge/Training-Remote-darkgreen)<BR>![Host](https://img.shields.io/badge/Host-WWHF%20June-blue) | Applied Purple Teaming | June 30th, 2020 - July 2nd, 2020 | Emailed to Students |
 |[![Host](https://img.shields.io/badge/Host-CyberJungleVirtualSummit-blue)][1]                           | Applied Purple Teaming <br>Parachuters Threat Optics Jump HQ Workshop (2Hr)<br> | June 27, 2020 | [TBA]                           |                                          
 | ![Blog  - BHIS](https://img.shields.io/badge/Blog-BHIS-darkgreen) | APT: Infrastructure, Threat Optics, and Continuous Improvement (Supplemental Blog) | June 17th, 2020            | [BHIS Blog](https://www.blackhillsinfosec.com/how-to-deploy-windows-optics-commands-downloads-instructions-and-screenshots/) |
 | ![Training-Virtual](https://img.shields.io/badge/Training-Remote-darkgreen) | Applied Purple Teaming: Infrastructure, Threat Optics, and Continuous Improvement (4 hrs) | June 6th, 2020             | [Register for Recording][6]              |
