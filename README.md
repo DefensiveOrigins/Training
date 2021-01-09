@@ -6,12 +6,11 @@ Join the Defensive Origins Mailing List: https://defensiveorigins.com/first-to-k
 ## Upcoming Training Opportunities
 
 
-| Event                              | Date         | Venue          | Cost | Registration |
-|------------------------------------|--------------|----------------|------|--------------|
-| Applied Purple Teaming - ITOCI 4hr | Q1 2021      | WWHF Public    | TBA  | TBA          |
-| Applied Purple Teaming - 16 hr     | TBA Feb 2021 | WWHF Public    | TBA  | TBA          |
-| Applied Purple Teaming - 16hr      | Q1/Q2 2021   | WWHF San Diego  | TBA  | TBA          |
-| Applied Purple Teaming - ITOCI 4hr | Q2 2021      | TBA            | TBA  | TBA          |
+| Event                                | Date          | Venue           | Cost | Registration |
+|--------------------------------------|---------------|-----------------|------|--------------|
+| Applied Purple Teaming v8  (16 hr)   | Feb 2-5, 2021 | WWHF AntiSyphon | $495 | [Register](https://register.gotowebinar.com/register/6465240932128768267)     |
+| Applied Defensive Operations (16 hr) | TBA Q2 2021   | WWHF San Diego  | TBA  | TBA          |
+| Private Training                     |               |                 |      | [Contact Us](https://defensiveorigins.com/contact/)   |
 
 
 
@@ -19,14 +18,16 @@ Join the Defensive Origins Mailing List: https://defensiveorigins.com/first-to-k
 ## Past Events
 | Venue                                    | Event                                    | Date                             | Recording/Blog                           |
 |------------------------------------------|------------------------------------------|----------------------------------|------------------------------------------|
-| Secure West Virginia                     | Applied purple Teaming - 16hr            | November 2nd-5th, 2020           | See registration details                 |
-| ISACA - Tucson                           | Applied Purple Teaming - ITOCI           | October 24th, 2020               | TBA                                      |
-| Information Security Careers              | Rapid City Area Schools                  | October 2020                     |                                          |
-| Wild West Hackin Fest 2020 Deadwood      | Applied Purple Teaming - 16hr            | September 22-25, 2020            | See registration details                 |
-| ISACA - Denver                           | Applied Purple Teaming - ITOCI           | September 17th, 2020             | TBA                                      |
+| ![Webcast  - WWHF](https://img.shields.io/badge/Webcast-WWHF-darkgreen) <BR> [![WWHF](https://img.shields.io/badge/Host-WWHF%20Roundup-blue)](https://www.securewv.org/)    | Unicorn Evangelism: The Case for Purple Teaming | December 8, 2020                 | https://www.youtube.com/watch?v=VxUgr0MrBJA |
+| ![Training-Virtual](https://img.shields.io/badge/Training-Remote-darkgreen) <BR>[![WWHF](https://img.shields.io/badge/Host-Secure%20WV%202020-blue)](https://www.securewv.org/)                      | Applied purple Teaming v7 - 16hr            | November 2nd-5th, 2020           | See registration details                 |
+| ![Training-Virtual](https://img.shields.io/badge/Training-Remote-darkgreen) <BR>[![WWHF](https://img.shields.io/badge/Host-ISACA%20Tucson-blue)](https://isaca.org)                          | Applied Purple Teaming - ITOCI           | October 24th, 2020               | TBA                                      |
+| ![Training-Virtual](https://img.shields.io/badge/Community-Education-darkgreen) <BR> Rapid City Area Schools              | Information Security Careers                | October 2020                     |                                          |
+| ![Training-Virtual](https://img.shields.io/badge/Training-Remote-darkgreen) <BR>[![WWHF](https://img.shields.io/badge/Host-WWHF%20DW%202020-blue)](https://wildwesthackinfest.com/)     | Applied Purple Teaming v6 (16 hr)            | September 22-25, 2020            | See registration details                 |
+| ![Training-Virtual](https://img.shields.io/badge/Training-Remote-darkgreen) <BR> [![WWHF](https://img.shields.io/badge/Host-ISACA%20Denver-blue)](https://isaca.org)                            | Applied Purple Teaming - ITOCI (4 hr)           | September 17th, 2020             | TBA                                      |
+| ![Webcast  - BHIS](https://img.shields.io/badge/Webcast-BHIS-darkgreen)  | When Worlds Collide: OSS Hunting and Adversarial Simulation | September 8, 2020                | https://www.youtube.com/watch?v=P2v-fq3JxDg |
 | ![Blog  - BHIS](https://img.shields.io/badge/Blog-BHIS-darkgreen) | Applied Purple Teaming - Threat Optics Lab Build Resources - Terraform | August 3rd, 2020                 | [Blog][4]<br>[Git Repo](https://github.com/DefensiveOrigins/APT-Lab-Terraform) |
 | ![Webcast  - BHIS](https://img.shields.io/badge/Webcast-BHIS-darkgreen) | Atomic Purple Team Framework and Lifecycle | July 16th, 2020                  | [Recording TBA]<br>[Git Repo][5]         |
-| ![Training-Virtual](https://img.shields.io/badge/Training-Remote-darkgreen)<BR>![Host](https://img.shields.io/badge/Host-WWHF%20June-blue) | Applied Purple Teaming                   | June 30th, 2020 - July 2nd, 2020 | Emailed to Students                      |
+| ![Training-Virtual](https://img.shields.io/badge/Training-Remote-darkgreen)<BR>![Host](https://img.shields.io/badge/Host-WWHF%20June-blue) | Applied Purple Teaming v3                   | June 30th, 2020 - July 2nd, 2020 | Emailed to Students                      |
 | [![Host](https://img.shields.io/badge/Host-CyberJungleVirtualSummit-blue)][6] | Applied Purple Teaming <br>Parachuters Threat Optics Jump HQ Workshop (2Hr)<br> | June 27, 2020                    | [Recording TBA]                          |
 | ![Blog  - BHIS](https://img.shields.io/badge/Blog-BHIS-darkgreen) | APT: Infrastructure, Threat Optics, and Continuous Improvement (Supplemental Blog) | June 17th, 2020                  | [BHIS Blog](https://www.blackhillsinfosec.com/how-to-deploy-windows-optics-commands-downloads-instructions-and-screenshots/) |
 | ![Training-Virtual](https://img.shields.io/badge/Training-Remote-darkgreen) | Applied Purple Teaming: Infrastructure, Threat Optics, and Continuous Improvement (4 hrs) | June 6th, 2020                   | [Register for Recording][7]              |
