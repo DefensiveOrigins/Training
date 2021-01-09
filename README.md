@@ -16,6 +16,9 @@ Join the Defensive Origins Mailing List: https://defensiveorigins.com/first-to-k
 
 
 ## Past Events
+* Videos: Videos featuring Defensive Origin's staff can be found here: https://defensiveorigins.com/Videos/
+* Blogs: Blog posts written exclusively by Defensive Origins can be found here: https://defensiveorigins.com/blog/
+
 | Venue                                    | Event                                    | Date                             | Recording/Blog                           |
 |------------------------------------------|------------------------------------------|----------------------------------|------------------------------------------|
 | ![Webcast  - WWHF](https://img.shields.io/badge/Webcast-WWHF-darkgreen) <BR> [![WWHF](https://img.shields.io/badge/Host-WWHF%20Roundup-blue)](https://www.securewv.org/)    | Unicorn Evangelism: The Case for Purple Teaming | December 8, 2020                 | https://www.youtube.com/watch?v=VxUgr0MrBJA |
