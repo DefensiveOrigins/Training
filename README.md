@@ -8,8 +8,8 @@ Join the Defensive Origins Mailing List: https://defensiveorigins.com/first-to-k
 
 | Event                                  | Date          | Venue           | Cost | Registration                                                              |
 |----------------------------------------|---------------|-----------------|------|---------------------------------------------------------------------------|
-| Applied Purple Teaming 2022.1  (16 hr) | Feb 22-25, 2022 | AntiSyphon Training | $495 | [Info/Register](https://www.antisyphontraining.com/applied-purple-teaming-w-kent-ickler-and-jordan-drysdale/) |
-| Defending The Enterprise (16 hr)   | TBA Q2 2021   | Wild West Hackinfest San Diego  | $495  | [Info/Register](https://www.antisyphontraining.com/defending-the-enterprise-w-kent-ickler-and-jordan-drysdale/)                                                                       |
+| Applied Purple Teaming 2022.1  (16 hr) | Feb 22-25, 2022 | AntiSyphon Training | $545 | [Info/Register](https://www.antisyphontraining.com/applied-purple-teaming-w-kent-ickler-and-jordan-drysdale/) |
+| Defending The Enterprise (16 hr)   | TBA Q2 2021   | Wild West Hackinfest San Diego  | $545  | [Info/Register](https://www.antisyphontraining.com/defending-the-enterprise-w-kent-ickler-and-jordan-drysdale/)                                                                       |
 | Private Training                       |               |                 |      | [Contact Us](https://defensiveorigins.com/contact/)                       |
 
 
